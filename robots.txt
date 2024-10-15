@@ -1,4 +1,12 @@
-# https://www.robotstxt.org/robotstxt.html
 User-agent: *
-Disallow: /
-Allow: /index.html
+   Disallow: /dashboard/
+   Disallow: /music-taste
+   Disallow: /about-us
+   Disallow: /subscribe
+   Disallow: /submit
+   Disallow: /get-in-touch
+   Disallow: /content
+   Disallow: /artists
+   Disallow: /notifications
+   Disallow: /profile
+   Disallow: /account
